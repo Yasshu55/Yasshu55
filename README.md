@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Yasshu55
-- 👀 I’m interested in Web Development
+- 👋 Hi, I’m Yashwanth
+- 👀 I’m interested in Web Development & App Development
 - 🌱 I’m currently learning Full Stack web development
 - 💞️ I’m looking to collaborate on HTML,CSS
 - 📫 How to reach me Linkedin-https://www.linkedin.com/in/yashwanth-sai-506169205/
