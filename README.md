@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Yashwanth sai
-- 👀 I’m interested in Web Development & App Development
+- 👀 I’m interested in Web Development Blockchain & App Deveopment
 - 🌱 I’m currently learning Full Stack web development
-- 💞️ I’m looking to collaborate on MERN Stack Projects
-- 📫 How to reach me Linkedin-https://www.linkedin.com/in/yashwanth-sai-506169205/
+- 💞️ I’m looking to collaborate on MERN stack projects
+- 📫 How to reach me Linkedin - https://www.linkedin.com/in/yashwanth-sai-506169205/
 
 <!---
 Yasshu55/Yasshu55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
