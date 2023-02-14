@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Yashwanth sai<br>- 👀 I’m interested in Web Development, Blockchain & App Deveopment<br>- 🌱 I’m currently learning Full Stack web development<br>- 💞️ I’m looking to collaborate on MERN stack projects<br>- 📫 How to reach me Linkedin - https://www.linkedin.com/in/yasshu/
+- 👋 Hi, I’m Yashwanth sai<br>- 👀 I’m interested in Web Development, Blockchain & App Development<br>- 🌱 I’m am Familiar with Full Stack web development<br>- 💞️ I’m looking to collaborate on MERN stack projects<br>- 📫 How to reach me Linkedin - https://www.linkedin.com/in/yasshu/
 
 
 ## 🌐 Socials:
